@@ -1,0 +1,10 @@
+uses venv as virtual environment:
+$ source venv/bin/activate
+
+dependencies are:
+(venv) $ pip install requests
+(venv) $ pip install peewee
+(venv) $ pip install pymysql
+(venv) $ pip install cryptography
+(venv) $ pip install python-dotenv
+(venv) $ pip install pandas
