@@ -1,4 +1,4 @@
-uses venv as virtual environment:
+using venv as virtual environment:
 $ source venv/bin/activate
 
 dependencies are:
